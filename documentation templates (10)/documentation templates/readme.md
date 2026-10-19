@@ -1,4 +1,4 @@
-# TODO: PROJECT NAME HERE
+# LocoVolt
 
 TODO: Brief outline of your project describing the dataset and a link to it.
 
