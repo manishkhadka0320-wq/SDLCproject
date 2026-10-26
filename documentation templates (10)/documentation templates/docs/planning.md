@@ -11,7 +11,7 @@ Project Proposal: Bristol Green Spaces Finder
 
 ​Drives Physical Activity: People use public spaces more when they can quickly find parks that fit their specific plans.
 ​Spreads Out Foot Traffic: Highlights smaller, under-utilized neighbourhood parks instead of bottlenecking everyone into the same two central spots.
-​Zero Privacy Risk: The app handles strictly public geographic data—no user accounts, no location tracking logs, no GDPR headaches.
+​Zero Privacy Risk: The app handles strictly public geographic data—no user accounts, no location tracking logs.
 ​Low Ongoing Maintenance: Park perimeters and basic amenities don't change often. Once the pipeline works, it largely runs itself.
 
 ​Options Considered
