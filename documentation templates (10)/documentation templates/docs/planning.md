@@ -1,6 +1,7 @@
 Project Proposal: Bristol Green Spaces Finder
 
 ​Business Case
+
 ​Problem Statement
 ​Bristol Council manages more than 200 public parks and green spaces. The problem? That data is trapped in flat spreadsheets and static tables.
 ​If a parent needs a park with a working playground and toilets, or a wheelchair user needs paved paths, they shouldn't have to manually cross-reference raw open data tables or guess. Right now, there is no quick, visual way for people to filter parks by actual facilities before heading out the door.
@@ -32,3 +33,5 @@ Project Proposal: Bristol Green Spaces Finder
 ​Park Popup Cards: Compact drawer/popup with the park name, opening hours, active amenities, and a direct Google/Apple Maps routing link.
 ​API Integration Pipeline: Lightweight client service that fetches and parses GeoJSON data straight from the Bristol Open Data API.
 ​Simple Feedback Form: A lightweight modal on each park card to flag incorrect data or broken equipment to council admins.
+<img width="704" height="1203" alt="1792969970729" src="https://github.com/user-attachments/assets/2b5a5747-5268-4087-ae08-ead8227956cb" />
+
